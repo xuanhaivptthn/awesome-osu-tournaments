@@ -78,7 +78,6 @@ This is a collection of useful tools and resources for managing an osu! tourname
 #### osu! API Proxy
 - [Cloudflare Worker](https://github.com/ilw8/osu-api-proxy) (by ilw8)- A proxy for osu! /api/ endpoints, run on Cloudflare Worker
 - [nginx](https://github.com/osu-community-tournaments/osu-api-proxy) (by KotRik) - Proper nginx config for running a proxy
-- [NodeJS Server](https://github.com/xuanhaivptthn/osu-api-proxy) (by BCraftMG) - A "very unnecessary" NodeJS server that can work as a proxy
 
 #### Miscellaneous
 - [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1giUT9wLzhI-VkM6zioNH6pVrMqGDvi0_iUsfRmGRhP8) (by Nathaniel) - Generate BBCode to nicely display your staff in the tournament forum post.
