@@ -76,8 +76,7 @@ This is a collection of useful tools and resources for managing an osu! tourname
 - [Behaviour Standards Template](https://osu.ppy.sh/community/forums/topics/2038646) (by niat0004) - A set of relatively detailed rules for participants in (badged) tournaments to abide by, and how these rules are enforced. Covers Discord and Twitch moderation in detail.
 
 #### osu! API Proxy
-- [Cloudflare Worker](https://github.com/ilw8/osu-api-proxy) (by ilw8)- A proxy for osu! /api/ endpoints, run on Cloudflare Worker
-- [nginx](https://github.com/osu-community-tournaments/osu-api-proxy) (by KotRik) - Proper nginx config for running a proxy
+- [nginx](https://github.com/osu-community-tournaments/osu-api-proxy) (by KotRik) - nginx config for running a proxy
 
 #### Miscellaneous
 - [BBCode generator for staff in forum posts](https://docs.google.com/spreadsheets/d/1giUT9wLzhI-VkM6zioNH6pVrMqGDvi0_iUsfRmGRhP8) (by Nathaniel) - Generate BBCode to nicely display your staff in the tournament forum post.
@@ -113,5 +112,5 @@ This is a collection of useful tools and resources for managing an osu! tourname
 ### Tournament Overlay Templates
 - VCL Tournament Overlay - Lazer edition (by Hoaq) - A template overlay compatible with Gosumemory / Tosu, made to simplify the trouble with setting up Lazer overlay. Supports both score and accuracy win conditions.
   - [Gosumemory version](https://github.com/vncommunityleague/vcl-tournament-overlay-gosumemory/) - deprecated
-  - [Tosu version](https://github.com/vncommunityleague/vcl-tournament-overlay-tosu/) - also deprecated
+  - [Tosu version](https://github.com/vncommunityleague/vcl-tournament-overlay-tosu/) - deprecated
   - [Tosu version - reworked](https://github.com/vncommunityleague/vcl-overlay)
